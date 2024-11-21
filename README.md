@@ -80,3 +80,5 @@ To verify the permission, you will see that last three modes are read and execut
 
 TO use PORTFORWARD technique for viewing argocd UI:
 ***kubectl port-forward --address 0.0.0.0 svc/argocd-server -n argocd 8080:443***
+To acess the application running on argocd server( IF THAT SERVER IS HOSTED ON AWS ACCOUNT AND ARGOCD SERVER IS RUNNING ON MINIKUBE) use port forwarding technique to access the application again:
+***kubectl port-forward --address 0.0.0.0 svc/solar-system-service -n planets 8181:80***

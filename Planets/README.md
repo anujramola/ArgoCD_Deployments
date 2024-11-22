@@ -1,5 +1,5 @@
 **OVERVIEW:**
-![The planets](image-12.png)
+![The planets](Screenshots/The_planets.png)
 
 ***The planet project contains the simulation of planets around the solar system.***
 **- The simulation image is already present in the docker hub registry.**

@@ -56,4 +56,7 @@ To access the application I am using port forward technique for the given nodePo
 
 
 **The application GUI:**
-<video controls src="Screenshots/Screen Recording 2024-11-22 125045.mp4" title="Arocd_application"></video>
+
+![The planets](Screenshots/The_planets.png)
+
+

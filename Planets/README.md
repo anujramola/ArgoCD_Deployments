@@ -1,7 +1,7 @@
 **OVERVIEW:**
 ![The planets](Screenshots/The_planets.png)
 
-***The planet project contains the simulation of planets around the solar system.***
+***The planet project contains the simulation of planets around the solar system which is being deployed with popular GitOps tool called ARGOCD.***
 **- The simulation image is already present in the docker hub registry.**
 **- The image has various tage ranging from v1 to v9.**
 **- v1 represents the single star in our solar system i,e sun.**
